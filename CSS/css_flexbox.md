@@ -30,3 +30,11 @@
 | column         | 주축은 열이고 방향은 콘텐츠의 방향과 동일  |
 | column-reverse | 주축은 열이고 방향은 콘텐츠의 방향과 반대  |
 
+<br>
+
+### ▶ flexbox 속성
+
+- 주축 배치 방법 : justify-content
+- 교차축 배치 방법 : align-items
+- 교차축 개별요소 배치 방법 : align-self
+- 줄 바꿈 여부 : flex-wrap
